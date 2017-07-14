@@ -103,3 +103,9 @@ https://dzone.com/articles/service-discovery-in-a-microservices-architecture-1
 https://dzone.com/articles/microservice-registration-and
 https://auth0.com/blog/an-introduction-to-microservices-part-3-the-service-registry/
 https://www.google.com/search?q=how+to+authenticate+all+my+micro+service+in+my+registy&oq=how+to+authenticate+all+my+micro+service+in+my+registy&aqs=chrome..69i57.24674j0j4&sourceid=chrome&ie=UTF-8
+https://github.com/azizkhani/PiggyMetrics
+https://jhipster.github.io/microservices-architecture/
+https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway
+https://stackoverflow.com/questions/38156213/spring-cloud-zuul-jwt-for-value-reference-tokens
+https://keyholesoftware.com/2016/06/20/json-web-tokens-with-spring-cloud-microservices/
+https://github.com/thomas-kendall/trivia-microservices
