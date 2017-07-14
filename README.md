@@ -106,9 +106,14 @@ https://www.google.com/search?q=how+to+authenticate+all+my+micro+service+in+my+r
 https://github.com/azizkhani/PiggyMetrics
 https://jhipster.github.io/microservices-architecture/
 https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gateway
+https://github.com/kakawait/uaa-behind-zuul-sample
+http://blog.monkey.codes/how-to-use-jwt-and-oauth-with-spring-boot/
 https://stackoverflow.com/questions/38156213/spring-cloud-zuul-jwt-for-value-reference-tokens
 https://keyholesoftware.com/2016/06/20/json-web-tokens-with-spring-cloud-microservices/
 https://github.com/thomas-kendall/trivia-microservices
 http://stytex.de/blog/2016/02/01/spring-cloud-security-with-oauth2/
 https://github.com/xetys/spring-cloud-oauth2-example
 http://cloud.spring.io/spring-cloud-static/spring-cloud-security/1.0.3.RELEASE/
+http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html#_security
+https://prakhar.me/docker-curriculum/
+http://containertutorials.com/docker-compose/spring-boot-app.html#dockerfile
