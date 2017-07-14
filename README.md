@@ -109,3 +109,6 @@ https://stackoverflow.com/questions/37180375/using-zuul-as-an-authentication-gat
 https://stackoverflow.com/questions/38156213/spring-cloud-zuul-jwt-for-value-reference-tokens
 https://keyholesoftware.com/2016/06/20/json-web-tokens-with-spring-cloud-microservices/
 https://github.com/thomas-kendall/trivia-microservices
+http://stytex.de/blog/2016/02/01/spring-cloud-security-with-oauth2/
+https://github.com/xetys/spring-cloud-oauth2-example
+http://cloud.spring.io/spring-cloud-static/spring-cloud-security/1.0.3.RELEASE/
