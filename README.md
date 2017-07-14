@@ -117,3 +117,6 @@ http://cloud.spring.io/spring-cloud-static/spring-cloud-security/1.0.3.RELEASE/
 http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html#_security
 https://prakhar.me/docker-curriculum/
 http://containertutorials.com/docker-compose/spring-boot-app.html#dockerfile
+https://medium.facilelogin.com/securing-microservices-with-oauth-2-0-jwt-and-xacml-d03770a9a838
+https://stormpath.com/blog/microservices-jwt-spring-boot
+https://github.com/stormpath/JavaRoadStorm2016/tree/master/roadstorm-jwt-microservices-tutorial
